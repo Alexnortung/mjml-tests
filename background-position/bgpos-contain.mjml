@@ -1,0 +1,89 @@
+<mjml>
+    <mj-head>
+        <mj-title>bgpos test</mj-title>
+    </mj-head>
+    <mj-body>
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="contain"
+            background-position-x="left"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    contain top left 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="contain"
+            background-position-x="center"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    contain top center 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="contain"
+            background-position-x="right"
+            background-position-y="bottom">
+            <mj-column>
+                <mj-text>
+                    contain top right 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="contain"
+            background-position-x="left"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    contain top left 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="contain"
+            background-position-x="left"
+            background-position-y="center">
+            <mj-column>
+                <mj-text>
+                    contain center left 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="contain"
+            background-position-x="left"
+            background-position-y="bottom">
+            <mj-column>
+                <mj-text>
+                    contain bottom left 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+    </mj-body>
+</mjml>

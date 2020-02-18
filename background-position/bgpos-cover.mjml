@@ -1,0 +1,89 @@
+<mjml>
+    <mj-head>
+        <mj-title>bgpos test</mj-title>
+    </mj-head>
+    <mj-body>
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="cover"
+            background-position-x="left"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    cover top left 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="cover"
+            background-position-x="left"
+            background-position-y="center">
+            <mj-column>
+                <mj-text>
+                    cover center left 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x100"
+            background-size="cover"
+            background-position-x="left"
+            background-position-y="bottom">
+            <mj-column>
+                <mj-text>
+                    cover bottom left 600x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="cover"
+            background-position-x="left"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    cover top left 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="cover"
+            background-position-x="center"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    cover top center 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/600x50"
+            background-size="cover"
+            background-position-x="right"
+            background-position-y="top">
+            <mj-column>
+                <mj-text>
+                    cover top right 600x50
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+
+    </mj-body>
+</mjml>
