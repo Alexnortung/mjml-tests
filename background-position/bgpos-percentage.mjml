@@ -1,0 +1,128 @@
+<mjml>
+    <mj-head>
+        <mj-title>bgpos test</mj-title>
+    </mj-head>
+    <mj-body>
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="25%"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% 25% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="25%"
+            background-position-y="50%">
+            <mj-column>
+                <mj-text>
+                    50% 25% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="25%"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% 25% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="50%"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% 50% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="50%"
+            background-position-y="50%">
+            <mj-column>
+                <mj-text>
+                    50% 50% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="50%"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% 50% 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+        
+         <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="right"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% right 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="right"
+            background-position-y="50%">
+            <mj-column>
+                <mj-text>
+                    50% right 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100"
+            background-position-x="right"
+            background-position-y="75%">
+            <mj-column>
+                <mj-text>
+                    75% right 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-spacer height="20px" />
+
+        <mj-section
+            background-url="https://placehold.it/650x100">
+            <mj-column>
+                <mj-text>
+                    no attributes 650x100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+
+    </mj-body>
+</mjml>

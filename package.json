@@ -1,0 +1,24 @@
+{
+  "name": "mjml-tests",
+  "version": "1.0.0",
+  "description": "This repositroy is made to easily test features or updates for mjml files.",
+  "main": "compile-all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexnortung/mjml-tests.git"
+  },
+  "author": "Alexander Nortung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexnortung/mjml-tests/issues"
+  },
+  "homepage": "https://github.com/Alexnortung/mjml-tests#readme",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "dotenv": "^8.2.0",
+    "yargs": "^15.1.0"
+  }
+}
