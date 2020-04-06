@@ -4,6 +4,7 @@
   "description": "This repositroy is made to easily test features or updates for mjml files.",
   "main": "compile-all.js",
   "scripts": {
+    "start": "node compile-all.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
